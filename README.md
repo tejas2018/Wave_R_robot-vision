@@ -50,4 +50,8 @@ Make sure you have the following libraries installed for full OpenCV functionali
 import numpy as np     # Matrix & array operations
 import matplotlib.pyplot as plt  # For plotting (optional)
 import imutils         # For convenience functions (optional)
+## 📸 Demo
+
+![Demo GIF](media/demo.gif)
+![Detected Shapes](media/frame_example.png)
 
